@@ -1,0 +1,12 @@
+body {
+    padding-top:50px;
+    background: yellow;
+}
+
+header {
+    background-color: red;
+}
+
+.jumbotron {
+    background-color: green;
+}
